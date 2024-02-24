@@ -1,13 +1,12 @@
 <h1 align="center">Hello 👋, my name is Lucía</h1>
-<h3 align="center">I'm Data Analyst, with some years working in Quick Commerce - Start Up companies</h3>
+<h3 align="center">I'm a Sr Business Analyst, with some years working in Quick Commerce / Retail - Start Up companies</h3>
 
-- 💬 Ask me about **Excel, MySQL, PowerBI, Python**
+- 💬 Ask me about **Excel, SQL**
 
 - 📫 How to reach me **perez.luciam@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/perezluciam/](https://www.linkedin.com/in/perezluciam/)
 
-- ⚡ Skills **Friendly | Action oriented**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
