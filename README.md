@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, my name is Lucía</h1>
 <h3 align="center">I'm a Sr Business Analyst, with some years working in Quick Commerce / Retail - Start Up companies</h3>
 
-- 💬 Ask me about **Excel, SQL**
+- 💬 Ask me about **Excel, SQL, Business, Strategy, Growth**
 
 - 📫 How to reach me **perez.luciam@gmail.com**
 
